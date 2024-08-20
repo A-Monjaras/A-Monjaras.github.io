@@ -4687,3 +4687,8 @@ input, select, textarea {
 		}
 
 	}
+
+	.grey-background {
+		background-color: #444141; /* Light grey background */
+		padding: 10px; /* Optional: adds some padding around the image */
+	}
